@@ -1,0 +1,4 @@
+<design:component >
+    <design:attribute name="channel" label="channel" default="/data/ChangeEvents" />
+    <design:attribute name="replayId" label="replayId" default="-1" />
+</design:component>

@@ -1,0 +1,21 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    
+    <aura:attribute name="channel" type="string"/>
+    <aura:attribute name="replayId" type="integer" default="-1"/>
+    <!-- Holds the streaming event subscription -->
+    <aura:attribute name="subscription" type="Map" />
+
+    <lightning:empApi aura:id="empApi" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <lightning:card title="CDC Demo Component">
+        <p class="slds-p-horizontal_small">
+            Check the browser logs for event logs.
+        </p>
+        <p class="slds-p-horizontal_small">
+            Modify the component for UI notifications
+        </p>
+    </lightning:card>
+    
+</aura:component>	
