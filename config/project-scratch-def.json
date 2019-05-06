@@ -1,5 +1,6 @@
 {
-  "orgName": "cdc-workshop",
+  "orgName": "workshops",
+  "description": "cdc",
   "edition": "Developer",
   "settings": {
     "orgPreferenceSettings": {
