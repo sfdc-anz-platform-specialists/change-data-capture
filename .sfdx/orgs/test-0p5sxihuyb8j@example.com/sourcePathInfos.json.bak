@@ -1,0 +1,332 @@
+[
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583302787802,
+            "changeTime": 1583302787802,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882819,
+            "changeTime": 1583301882819,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1583301882823,
+            "changeTime": 1583301882823,
+            "contentHash": "bcf451e4811e834483a7d7ee21f0c9a457243079",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882819,
+            "changeTime": 1583301882819,
+            "contentHash": "11c6b1b662a3d6c0eceda8c138086aed6bda346d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1583301882820,
+            "changeTime": 1583301882820,
+            "contentHash": "d77c3592f64ccf2d16ba04adabcd02a1f38375de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 737,
+            "modifiedTime": 1583301882819,
+            "changeTime": 1583301882819,
+            "contentHash": "0f816fdc5abee93101fb54789f26b5b2dd06217f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1583301882820,
+            "changeTime": 1583301882820,
+            "contentHash": "7386f3978141209b4c4707a7d08d5d75bb3afd55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1583301882820,
+            "changeTime": 1583301882820,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 195,
+            "modifiedTime": 1583301882820,
+            "changeTime": 1583301882820,
+            "contentHash": "62935f2c77b2a5f5a7971b1d40750757143a18df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/aura/cdcDemo/cdcDemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1245,
+            "modifiedTime": 1583301882820,
+            "changeTime": 1583301882820,
+            "contentHash": "42838b668aaecc9fdce88ab3fae5943861b931a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583301882821,
+            "changeTime": 1583301882821,
+            "contentHash": "ac0e0362e543a83337e0bb48529480dffc408278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins/http_localhost.corsWhitelistOrigin-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins/http_localhost.corsWhitelistOrigin-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 183,
+            "modifiedTime": 1583301882821,
+            "changeTime": 1583301882821,
+            "contentHash": "ba36279609968df451168ee2d0c96c05bcbe5544",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins/https_herokuapp_com.corsWhitelistOrigin-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/corsWhitelistOrigins/https_herokuapp_com.corsWhitelistOrigin-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1583301882821,
+            "changeTime": 1583301882821,
+            "contentHash": "6787e2f81175ae882e3073ea157856fc968e6a4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882821,
+            "changeTime": 1583301882821,
+            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7117,
+            "modifiedTime": 1583301882821,
+            "changeTime": 1583301882821,
+            "contentHash": "188376ff157d0ee7d276be51bfb55fba28aad2bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583301882822,
+            "changeTime": 1583301882822,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882822,
+            "changeTime": 1583301882822,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882822,
+            "changeTime": 1583301882822,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4284,
+            "modifiedTime": 1583301882823,
+            "changeTime": 1583301882823,
+            "contentHash": "87f813b1cdb5b60f95cad48b0b55397ea336da36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1583301882823,
+            "changeTime": 1583301882823,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 296,
+            "modifiedTime": 1583301882823,
+            "changeTime": 1583301882823,
+            "contentHash": "ed58df81f94ef5cafc6634a170e23ddebc43c03d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-cdc-workshop",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1583302787804,
+            "changeTime": 1583302787804,
+            "contentHash": "f38393ce128ce315711bc8c9be65aaa4d2928594",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

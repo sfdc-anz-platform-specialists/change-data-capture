@@ -16,7 +16,14 @@
             empApi.subscribe(component.get('v.channel'), component.get('v.replayId'), $A.getCallback(eventReceived => {
                 // Process event (this is called each time we receive an event)
                 console.log('Received event ', JSON.parse(JSON.stringify(eventReceived)));
-    
+    if (eventReceived.data.payload.ChangeEventHeader.changeType === 'CREATE') {
+    $A.get("e.force:showToast")
+        .setParams({
+            "title": "Record Created!",
+            "message": eventReceived.data.payload.Name
+        })
+       .fire();
+}
             }))
             .then(subscription => {
                 // Confirm that we have subscribed to the event channel.
